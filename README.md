@@ -5,3 +5,4 @@
 > The game logic is implemented using JavaScript to control snake movement and growth. 
 
 > HTML5 Canvas is used to draw the snake, apple, and game board dynamically.
+
