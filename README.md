@@ -6,4 +6,4 @@
 
 > HTML5 Canvas is used to draw the snake, apple, and game board dynamically.
 
->
+> 
