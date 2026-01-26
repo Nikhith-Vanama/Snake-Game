@@ -7,3 +7,4 @@
 > HTML5 Canvas is used to draw the snake, apple, and game board dynamically.
 
 > CSS enhances the visual styling and layout of the game interface.
+> 
