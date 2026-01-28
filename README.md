@@ -9,4 +9,4 @@
 > CSS enhances the visual styling and layout of the game interface.
 
 > The player controls the snake using keyboard arrow keys for directional movement.
-> 
+
