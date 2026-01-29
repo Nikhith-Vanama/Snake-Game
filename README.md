@@ -10,3 +10,4 @@
 
 > The player controls the snake using keyboard arrow keys for directional movement.
 
+>
