@@ -10,4 +10,4 @@
 
 > The player controls the snake using keyboard arrow keys for directional movement.
 
-> 
+> Each time the snake eats an apple, its length increases and the score is updated.
