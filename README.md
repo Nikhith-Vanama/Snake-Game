@@ -12,4 +12,4 @@
 
 > Each time the snake eats an apple, its length increases and the score is updated.
 
->
+>n
