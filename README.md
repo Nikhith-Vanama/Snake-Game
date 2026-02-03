@@ -15,3 +15,4 @@
 > Collision detection is used to identify wall hits and self-collisions.
 
 > The game ends when the snake collides with the wall or its own body.
+
