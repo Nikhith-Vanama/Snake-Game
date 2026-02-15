@@ -1,4 +1,3 @@
-> This game helps beginners understand JavaScript logic and interactive web development.
 # Snake-Game 
 
 > This project is a classic Snake and Apple game developed using HTML, CSS, and JavaScript. 
