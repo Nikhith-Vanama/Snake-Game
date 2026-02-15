@@ -17,3 +17,5 @@
 > The game ends when the snake collides with the wall or its own body.
 
 > The project demonstrates concepts like game loops, timers, and event handling.
+
+> This game helps beginners understand JavaScript logic and interactive web development.
